@@ -1,0 +1,10 @@
+Function,Method,Iterations,Function Evals,Gradient Evals,Hessian Evals,Final Error (2-norm)
+Function 1,Hill Climber,1,1001,0,0,8.132587854593876
+Function 2,Hill Climber,1,1001,0,0,0.7183620447014634
+Rastrigin,Hill Climber,1,1001,0,0,2.8141055009730818
+Function 1,Newton,1,3,3,3,0.0
+Function 2,Newton,1,4,4,4,1.015634310694185
+Rastrigin,Newton,1,4,4,4,2.814160868842771
+Function 1,Gradient Descent Wolfe,1,421,21,0,141.4213562373095
+Function 2,Gradient Descent Wolfe,1,387,21,0,1.8006597290831208
+Rastrigin,Gradient Descent Wolfe,1,24,3,0,2.1659076970269093e-14
