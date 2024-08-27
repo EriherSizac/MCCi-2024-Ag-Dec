@@ -1,7 +1,7 @@
 Function,Method,Iterations,Function Evals,Gradient Evals,Hessian Evals,Final Error (2-norm)
-Function 1,Hill Climber,1,1001,0,0,8.03485077817801
-Function 2,Hill Climber,1,1001,0,0,0.7185353492816274
-Rastrigin,Hill Climber,1,1001,0,0,2.8139618827364896
+Function 1,Hill Climber,1,1001,0,0,8.019186629785287
+Function 2,Hill Climber,1,1001,0,0,0.7182039644963134
+Rastrigin,Hill Climber,1,1001,0,0,2.814097769742463
 Function 1,Newton,1,22,22,22,0.0
 Function 2,Newton,1,22,22,22,1.0156343106937074
 Rastrigin,Newton,1,22,22,22,2.814160868842771
