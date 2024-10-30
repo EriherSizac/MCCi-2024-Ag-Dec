@@ -8,7 +8,6 @@ class Report:
         self.number_generations = Gmax
         self.final_individual_per_execution = np.empty(number_executions, dtype=Particle)
         self.best_individual_per_generation = np.empty((number_executions, Gmax), dtype=Particle)
-       
     
     # Add the best individual obtained during the evolutionary process at a given execution.
     def add_final_individual_from_execution(self, execution, individual):
